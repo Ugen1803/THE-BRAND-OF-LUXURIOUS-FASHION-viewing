@@ -246,7 +246,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpac
   \*****************************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   getBasketGoods: () => (/* binding */ getBasketGoods),\n/* harmony export */   getGoodsItems: () => (/* binding */ getGoodsItems)\n/* harmony export */ });\n/**\r\n * Сервер с БД товаров\r\n */\r\n\r\nconst getGoodsItems = `https://run.mocky.io/v3/60a3ed91-47fb-4b45-9a55-6bc0a2c9e845`;\r\nconst getBasketGoods = `https://run.mocky.io/v3/14dc5ac2-9796-4304-8942-8d16c041c21f`;\r\n\n\n//# sourceURL=webpack://website/./src/js/constants.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   getBasketGoods: () => (/* binding */ getBasketGoods),\n/* harmony export */   getGoodsItems: () => (/* binding */ getGoodsItems)\n/* harmony export */ });\n/**\r\n * Сервер с БД товаров\r\n */\r\n\r\nconst getGoodsItems = `https://run.mocky.io/v3/99a340d3-860f-4290-8928-11f6dc00821f`;\r\nconst getBasketGoods = `https://run.mocky.io/v3/d73b940f-65cd-4ed7-862a-69e01efbee08`;\r\n\n\n//# sourceURL=webpack://website/./src/js/constants.js?");
 
 /***/ }),
 
